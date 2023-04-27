@@ -1,4 +1,5 @@
 rootProject.name = 'design_patterns'
 include 'Observer'
 include 'Builder'
+include 'Strategy'
 
