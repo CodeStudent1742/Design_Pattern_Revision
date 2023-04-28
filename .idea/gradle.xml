@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Builder" />
+            <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Observer" />
             <option value="$PROJECT_DIR$/Strategy" />
           </set>
