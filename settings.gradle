@@ -3,4 +3,5 @@ include 'Observer'
 include 'Builder'
 include 'Strategy'
 include 'Factory'
+include 'Flyweight'
 
