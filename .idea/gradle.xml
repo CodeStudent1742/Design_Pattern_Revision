@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Adapter" />
             <option value="$PROJECT_DIR$/Builder" />
             <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Flyweight" />
