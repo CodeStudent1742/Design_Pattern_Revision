@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Flyweight" />
             <option value="$PROJECT_DIR$/Observer" />
+            <option value="$PROJECT_DIR$/Singleton" />
             <option value="$PROJECT_DIR$/Strategy" />
           </set>
         </option>
