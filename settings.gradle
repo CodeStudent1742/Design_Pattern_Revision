@@ -7,4 +7,5 @@ include 'Flyweight'
 include 'Adapter'
 include 'Singleton'
 include 'Decorator'
+include 'ChainOfResponsibility'
 
