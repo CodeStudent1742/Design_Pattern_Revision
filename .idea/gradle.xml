@@ -19,6 +19,7 @@
             <option value="$PROJECT_DIR$/Observer" />
             <option value="$PROJECT_DIR$/Singleton" />
             <option value="$PROJECT_DIR$/Strategy" />
+            <option value="$PROJECT_DIR$/TemplateMethod" />
           </set>
         </option>
       </GradleProjectSettings>
