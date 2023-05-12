@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/Adapter" />
             <option value="$PROJECT_DIR$/Builder" />
             <option value="$PROJECT_DIR$/ChainOfResponsibility" />
+            <option value="$PROJECT_DIR$/Command" />
             <option value="$PROJECT_DIR$/Decorator" />
             <option value="$PROJECT_DIR$/Factory" />
             <option value="$PROJECT_DIR$/Flyweight" />
