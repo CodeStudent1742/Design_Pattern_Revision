@@ -10,4 +10,5 @@ include 'Decorator'
 include 'ChainOfResponsibility'
 include 'TemplateMethod'
 include 'Command'
+include 'Memento'
 
