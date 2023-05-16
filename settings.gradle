@@ -11,4 +11,5 @@ include 'ChainOfResponsibility'
 include 'TemplateMethod'
 include 'Command'
 include 'Memento'
+include 'Visitor'
 
