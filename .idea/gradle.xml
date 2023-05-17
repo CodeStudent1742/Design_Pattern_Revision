@@ -20,6 +20,7 @@
             <option value="$PROJECT_DIR$/Memento" />
             <option value="$PROJECT_DIR$/Observer" />
             <option value="$PROJECT_DIR$/Singleton" />
+            <option value="$PROJECT_DIR$/State" />
             <option value="$PROJECT_DIR$/Strategy" />
             <option value="$PROJECT_DIR$/TemplateMethod" />
             <option value="$PROJECT_DIR$/Visitor" />

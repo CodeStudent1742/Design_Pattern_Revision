@@ -12,4 +12,5 @@ include 'TemplateMethod'
 include 'Command'
 include 'Memento'
 include 'Visitor'
+include 'State'
 
