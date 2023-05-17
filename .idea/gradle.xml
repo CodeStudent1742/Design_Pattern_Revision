@@ -15,11 +15,12 @@
             <option value="$PROJECT_DIR$/ChainOfResponsibility" />
             <option value="$PROJECT_DIR$/Command" />
             <option value="$PROJECT_DIR$/Decorator" />
+            <option value="$PROJECT_DIR$/Facade" />
             <option value="$PROJECT_DIR$/Factory" />
-            <option value="$PROJECT_DIR$/Fasada" />
             <option value="$PROJECT_DIR$/Flyweight" />
             <option value="$PROJECT_DIR$/Memento" />
             <option value="$PROJECT_DIR$/Observer" />
+            <option value="$PROJECT_DIR$/Proxy" />
             <option value="$PROJECT_DIR$/Singleton" />
             <option value="$PROJECT_DIR$/State" />
             <option value="$PROJECT_DIR$/Strategy" />
