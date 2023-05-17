@@ -13,4 +13,6 @@ include 'Command'
 include 'Memento'
 include 'Visitor'
 include 'State'
+include 'Fasada'
+include 'Facade'
 
